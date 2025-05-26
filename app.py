@@ -32,7 +32,7 @@ mpl.rcParams["axes.prop_cycle"] = plt.cycler(
 
 # ページ設定
 st.set_page_config(
-    page_title="株価相関分析アプリ",
+    page_title="株価相関分析",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="collapsed",
